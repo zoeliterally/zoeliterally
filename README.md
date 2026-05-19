@@ -8,6 +8,7 @@ My path runs from **Oracle and legacy enterprise systems** through **Java/Spring
 
 - **LinkedIn:** [zoeliterally](https://www.linkedin.com/in/zoeliterally)
 - **Website:** [zoelabs.de](https://zoelabs.de)
+- **Portfolio:** [github.com/zoeliterally/portfolio](https://github.com/zoeliterally/portfolio)
 - **GitHub:** [@zoeliterally](https://github.com/zoeliterally)
 
 ---
@@ -83,4 +84,3 @@ Legacy         Oracle Forms/Reports · PL/SQL · Oracle DB · MySQL · XML/XSLT
 I like systems that are understandable at 02:00 during an incident. Good naming, small deployable units, useful logs, explicit runbooks, and automation with escape hatches matter more to me than architectural theater.
 
 I also care about the human side of technical work: mentoring, documenting decisions, reducing interruptions, and leaving the next person with fewer mysteries than I found.
-
