@@ -1,93 +1,86 @@
-# Zoe Hanke (Zoe.Literally)
+# Zoe Hanke
 
-**Head of IT & Full Stack Developer** at [SJT SOLUTIONS](https://solutions.sjt.de)
+**Head of IT · Platform Engineer · Full Stack Developer**
 
-- **LinkedIn**: [zoeliterally](https://www.linkedin.com/in/zoeliterally)
-- **GitHub**: [@zoeliterally](https://github.com/zoeliterally)
-- **Website**: [zoelabs.de](https://zoelabs.de)
+I build the kind of software and infrastructure that removes repetitive work from technical teams: internal tools, automation platforms, API integrations, deployment pipelines, monitoring, and operational systems that survive real production pressure.
 
----
+My path runs from **Oracle and legacy enterprise systems** through **Java/Spring and search applications** into **platform engineering, DevOps, MSP infrastructure, and technical leadership**. These days I work closest to Java, Python, Go, Docker, Ansible, Linux, Veeam, monitoring, and Microsoft Entra ID.
 
-## Professional Experience
-
-### **SJT SOLUTIONS** *(Current)*
-**Head of IT & Full Stack Developer** | 2023 - Present
-- Full stack development with focus on backend systems
-- Infrastructure automation and DevOps practices
-- Container orchestration with Docker and Kubernetes
-- CI/CD pipeline development and maintenance
+- **LinkedIn:** [zoeliterally](https://www.linkedin.com/in/zoeliterally)
+- **Website:** [zoelabs.de](https://zoelabs.de)
+- **GitHub:** [@zoeliterally](https://github.com/zoeliterally)
 
 ---
 
-## Technical Skills
+## What I Do
 
-### **Programming Languages**
-- **Backend**: Java, Python, Go, PHP, Perl
-- **Frontend**: JavaScript, HTML, CSS
-- **Data**: XML, JSON
+### Platform & DevOps
 
-### **Databases & Storage**
-- **Relational**: MySQL, MariaDB, SQLite, PostgreSQL
-- **Search**: Elasticsearch, OpenSearch
+- Infrastructure automation with **Ansible**, Docker Compose, Traefik, GitLab CI/CD, and reproducible server baselines
+- Linux server operations, hardening, monitoring, backup infrastructure, and incident-oriented troubleshooting
+- MSP platform work around **Veeam**, repository servers, SIEM, service monitoring, and datacenter migration
 
-### **Infrastructure & DevOps**
-- **Containerization**: Docker, Kubernetes
-- **Virtualization**: VMware, Proxmox
-- **Operating Systems**: Linux, Windows
-- **Automation**: Ansible, PowerShell, Bash
+### Backend & Internal Tools
 
-### **Frameworks & Libraries**
-- **Java**: Spring Boot
-- **Python**: Django, Flask, FastAPI
-- **Go**: Gin
-- **PHP**: Laravel
+- Java/Spring Boot services, API gateways, CLI tools, and web applications
+- Python/FastAPI and Flask applications for automation, ticket workflows, feedback systems, and operational dashboards
+- Go agents and CLIs for lightweight infrastructure tooling, cross-platform automation, and monitoring
 
-### **CI/CD & Version Control**
-- **Version Control**: Git
-- **CI/CD**: GitLab CI/CD, Jenkins
+### Search, Data & Integration
 
-### **Monitoring & Observability**
-- **Monitoring**: CheckMK, Zabbix
+- Elasticsearch-based document search with Apache Tika indexing and access-aware search flows
+- API integrations with ticketing, documentation, domain, identity, backup, and monitoring systems
+- Database-backed applications with PostgreSQL, MariaDB, SQLite, Flyway, Alembic, and SQL-heavy legacy environments
 
-### **Backup & Recovery**
-- **Backup Solutions**: Veeam, Borg
+### Leadership
+
+- Technical leadership for a small internal IT team
+- Mentoring apprentices, reviewing technical work, coordinating tickets, and keeping hands-on ownership of key projects
+- Strong preference for practical systems: clear architecture, useful documentation, and automation that earns its keep
 
 ---
 
-## What I Love
+## Selected Work
 
-- **Backend Development** (preferred)
-- **Full Stack Development**
-- **Automation & Scripting**
-- **CI/CD Pipeline Design**
-- **Infrastructure as Code**
-- **Performance Optimization**
+| Area | Examples |
+| --- | --- |
+| **Platform engineering** | Docker service platform, Traefik-based deployments, GitLab CI/CD, infrastructure-as-code workflows |
+| **MSP operations** | Veeam platform migration, managed backup repositories, SIEM rollout, monitoring and alerting workflows |
+| **Internal applications** | SSH tunnel management, API gateway/auth hub, server maintenance automation, ticket feedback tooling |
+| **Search applications** | Document indexing and full-text search over large file archives with Elasticsearch and Apache Tika |
+| **Legacy modernization** | Oracle Forms/Reports, PL/SQL, Perl, SAP-adjacent integrations, BPM proof-of-concepts |
 
----
-
-## What I Tolerate
-
-- **Windows Server Administration**
-- **Active Directory Management**
-- **Microsoft 365 / Entra ID**
-- **Microsoft Ecosystem** (necessary evil)
+Most of my professional project code is private or employer-owned, so this profile focuses on the shape of the work rather than source dumps. I am happiest when a tool has a boringly reliable production life after the interesting engineering is done.
 
 ---
 
-## Current Focus
+## Toolbox
 
-- **Go Development** - Building efficient microservices
-- **Docker & Kubernetes** - Container orchestration
-- **Automation** - Reducing manual tasks
-- **Modern Web Development** - Full stack solutions
+```text
+Languages      Java · Python · Go · PowerShell · Bash · SQL · Perl
+Backend        Spring Boot · FastAPI · Flask · REST APIs · OpenAPI
+Data/Search    PostgreSQL · MariaDB · SQLite · Elasticsearch · Apache Tika
+Ops            Linux · Docker · Traefik · Ansible · GitLab CI/CD · Checkmk
+Security/Auth  Microsoft Entra ID · OAuth2/OIDC · RBAC · Wazuh · hardening
+Backup/MSP     Veeam VSPC · repository servers · restore workflows · DR docs
+Legacy         Oracle Forms/Reports · PL/SQL · Oracle DB · MySQL · XML/XSLT
+```
 
 ---
 
-## Philosophy
+## Current Interests
 
-> "Automate everything that can be automated, optimize everything that can be optimized, and always keep learning."
+- Building calm, reliable internal platforms instead of one-off scripts
+- Turning support and operations work into auditable workflows
+- API-first systems with clear contracts and boring deployments
+- Developer experience for small infrastructure-heavy teams
+- Practical uses of AI for documentation, code review, and operational tooling
 
 ---
 
-*Last updated: 2025*
+## Working Style
+
+I like systems that are understandable at 02:00 during an incident. Good naming, small deployable units, useful logs, explicit runbooks, and automation with escape hatches matter more to me than architectural theater.
+
+I also care about the human side of technical work: mentoring, documenting decisions, reducing interruptions, and leaving the next person with fewer mysteries than I found.
 
