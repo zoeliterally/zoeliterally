@@ -1,10 +1,10 @@
 # Zoe Hanke
 
-**Head of IT · Platform Engineer · Full Stack Developer**
+**Head of IT · Platform Engineer · Full Stack Developer · AI-assisted Engineering**
 
 I build the kind of software and infrastructure that removes repetitive work from technical teams: internal tools, automation platforms, API integrations, deployment pipelines, monitoring, and operational systems that survive real production pressure.
 
-My path runs from **Oracle and legacy enterprise systems** through **Java/Spring and search applications** into **platform engineering, DevOps, MSP infrastructure, and technical leadership**. These days I work closest to Java, Python, Go, Docker, Ansible, Linux, Veeam, monitoring, and Microsoft Entra ID.
+My path runs from **Oracle and legacy enterprise systems** through **Java/Spring and search applications** into **platform engineering, DevOps, MSP infrastructure, AI-assisted engineering, and technical leadership**. These days I work closest to Java, Python, Go, Docker, Ansible, Linux, Veeam, monitoring, Microsoft Entra ID, and daily AI-supported engineering workflows.
 
 - **LinkedIn:** [zoeliterally](https://www.linkedin.com/in/zoeliterally)
 - **Website:** [zoelabs.de](https://zoelabs.de)
@@ -39,6 +39,12 @@ My path runs from **Oracle and legacy enterprise systems** through **Java/Spring
 - Mentoring apprentices, reviewing technical work, coordinating tickets, and keeping hands-on ownership of key projects
 - Strong preference for practical systems: clear architecture, useful documentation, and automation that earns its keep
 
+### AI-assisted Engineering
+
+- Daily use of **OpenAI/ChatGPT/Codex**, **Claude**, **Gemini**, and **GitHub Copilot** for code exploration, review, documentation, debugging, architecture options, and implementation support
+- Agentic coding workflows for repository-level work since early 2026, with human ownership of architecture, security, tests, validation, and production decisions
+- Personal knowledge management and assistant workflows for notes, tasks, ideas, and structured technical thinking
+
 ---
 
 ## Selected Work
@@ -48,6 +54,7 @@ My path runs from **Oracle and legacy enterprise systems** through **Java/Spring
 | **Platform engineering** | Docker service platform, Traefik-based deployments, GitLab CI/CD, infrastructure-as-code workflows |
 | **MSP operations** | Veeam platform migration, managed backup repositories, SIEM rollout, monitoring and alerting workflows |
 | **Internal applications** | SSH tunnel management, API gateway/auth hub, server maintenance automation, ticket feedback tooling |
+| **AI-assisted engineering** | OpenAI/Codex, Claude, Gemini, Copilot, agentic coding, documentation, review, debugging |
 | **Search applications** | Document indexing and full-text search over large file archives with Elasticsearch and Apache Tika |
 | **Legacy modernization** | Oracle Forms/Reports, PL/SQL, Perl, SAP-adjacent integrations, BPM proof-of-concepts |
 
@@ -64,6 +71,7 @@ Data/Search    PostgreSQL · MariaDB · SQLite · Elasticsearch · Apache Tika
 Ops            Linux · Docker · Traefik · Ansible · GitLab CI/CD · Checkmk
 Security/Auth  Microsoft Entra ID · OAuth2/OIDC · RBAC · Wazuh · hardening
 Backup/MSP     Veeam VSPC · repository servers · restore workflows · DR docs
+AI             OpenAI/ChatGPT/Codex · Claude · Gemini · GitHub Copilot · agentic coding
 Legacy         Oracle Forms/Reports · PL/SQL · Oracle DB · MySQL · XML/XSLT
 ```
 
@@ -75,7 +83,7 @@ Legacy         Oracle Forms/Reports · PL/SQL · Oracle DB · MySQL · XML/XSLT
 - Turning support and operations work into auditable workflows
 - API-first systems with clear contracts and boring deployments
 - Developer experience for small infrastructure-heavy teams
-- Practical uses of AI for documentation, code review, and operational tooling
+- Practical AI-assisted engineering for documentation, code review, operational tooling, repo exploration, and personal knowledge work
 
 ---
 
