@@ -10,6 +10,7 @@ My path runs from **Oracle and legacy enterprise systems** through **Java/Spring
 - **Website:** [zoelabs.de](https://zoelabs.de)
 - **Portfolio:** [github.com/zoeliterally/portfolio](https://github.com/zoeliterally/portfolio)
 - **GitHub:** [@zoeliterally](https://github.com/zoeliterally)
+- **Email:** [work@zoelabs.de](mailto:work@zoelabs.de)
 
 ---
 
