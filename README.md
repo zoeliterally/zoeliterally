@@ -4,7 +4,7 @@
 
 I build the kind of software and infrastructure that removes repetitive work from technical teams: internal tools, automation platforms, API integrations, deployment pipelines, monitoring, and operational systems that survive real production pressure.
 
-My path runs from **Oracle and legacy enterprise systems** through **Java/Spring and search applications** into **platform engineering, DevOps, MSP infrastructure, AI-assisted engineering, and technical leadership**. These days I work closest to Java, Python, Go, Docker, Ansible, Linux, Veeam, monitoring, Microsoft Entra ID, and daily AI-supported engineering workflows.
+My path runs from **Oracle and legacy enterprise systems** through **Java/Spring and search applications** into **platform engineering, DevOps, MSP infrastructure, AI-assisted engineering, and technical leadership**. These days I work closest to Java, Python, Go, Docker, Ansible, Linux, Hetzner Dedicated/Cloud, Veeam, Checkmk Distributed/MSP monitoring, Microsoft Entra ID, and daily AI-supported engineering workflows.
 
 - **LinkedIn:** [zoeliterally](https://www.linkedin.com/in/zoeliterally)
 - **Website:** [zoelabs.de](https://zoelabs.de)
@@ -19,8 +19,8 @@ My path runs from **Oracle and legacy enterprise systems** through **Java/Spring
 ### Platform & DevOps
 
 - Infrastructure automation with **Ansible**, Docker Compose, Traefik, GitLab CI/CD, and reproducible server baselines
-- Linux server operations, hardening, monitoring, backup infrastructure, and incident-oriented troubleshooting
-- MSP platform work around **Veeam**, repository servers, SIEM, service monitoring, and datacenter migration
+- Linux server operations, hardening, Checkmk Distributed/MSP monitoring, backup infrastructure, and incident-oriented troubleshooting
+- MSP platform work around **Veeam**, repository servers, SIEM, customer/reseller monitoring services, and datacenter migration to Hetzner Dedicated/Cloud
 
 ### Backend & Internal Tools
 
@@ -53,7 +53,7 @@ My path runs from **Oracle and legacy enterprise systems** through **Java/Spring
 | Area | Examples |
 | --- | --- |
 | **Platform engineering** | Docker service platform, Traefik-based deployments, GitLab CI/CD, infrastructure-as-code workflows |
-| **MSP operations** | Veeam platform migration, managed backup repositories, SIEM rollout, monitoring and alerting workflows |
+| **MSP operations** | Veeam platform migration, managed backup repositories, SIEM rollout, Checkmk Distributed/MSP monitoring and alerting workflows |
 | **Internal applications** | SSH tunnel management, API gateway/auth hub, server maintenance automation, ticket feedback tooling |
 | **AI-assisted engineering** | OpenAI/Codex, Claude, Gemini, Copilot, agentic coding, documentation, review, debugging |
 | **Search applications** | Document indexing and full-text search over large file archives with Elasticsearch and Apache Tika |
@@ -69,9 +69,9 @@ Most of my professional project code is private or employer-owned, so this profi
 Languages      Java · Python · Go · PowerShell · Bash · SQL · Perl
 Backend        Spring Boot · FastAPI · Flask · REST APIs · OpenAPI
 Data/Search    PostgreSQL · MariaDB · SQLite · Elasticsearch · Apache Tika
-Ops            Linux · Docker · Traefik · Ansible · GitLab CI/CD · Checkmk
+Ops            Linux · Docker · Traefik · Ansible · GitLab CI/CD · Checkmk Distributed/MSP
 Security/Auth  Microsoft Entra ID · OAuth2/OIDC · RBAC · Wazuh · hardening
-Backup/MSP     Veeam VSPC · repository servers · restore workflows · DR docs
+Backup/MSP     Veeam VSPC · repository servers · Hetzner Dedicated/Cloud · restore workflows · DR docs
 AI             OpenAI/ChatGPT/Codex · Claude · Gemini · GitHub Copilot · agentic coding
 Legacy         Oracle Forms/Reports · PL/SQL · Oracle DB · MySQL · XML/XSLT
 ```
